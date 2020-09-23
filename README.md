@@ -6,4 +6,4 @@ Visit [FAICA.US](https://www.faica.us)
 
 Fowarded to: ```florida-artificial-intelligence.github.io/website```
 <br>
-Hosted with [Github Pages](https://florida-artificial-intelligence.github.io/website/)
+Hosted with [Github Pages](https://florida-artificial-intelligence.github.io)

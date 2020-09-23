@@ -51,6 +51,10 @@ body {
 	z-index: 1;
 }
 
+.vert {
+  	flex-direction:column;
+}
+
 ul {
 	color:white;
   	text-shadow: 5px 5px 5px black;

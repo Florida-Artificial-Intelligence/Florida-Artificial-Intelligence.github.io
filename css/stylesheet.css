@@ -19,7 +19,8 @@ body {
 .box {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content:space-between;
+  padding:3em;
 }
 
 .box div {

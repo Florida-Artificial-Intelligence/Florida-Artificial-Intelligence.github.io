@@ -32,10 +32,11 @@ body {
 	background-color: #555555;
 	font-size: large;
 	border-radius: 12px;
+	cursor: pointer;
 	z-index: 1;
 }
 
-.button1:hover {
+.button:hover {
 	color: #555555;
   	background-color: ivory;
   	color: white;

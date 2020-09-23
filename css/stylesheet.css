@@ -2,6 +2,8 @@ h1 {
   color:white;
   text-shadow: 5px 5px 5px black;
   text-align: center;
+  font-size:xxx-large;
+  padding:2em;
 }
 
 p {
@@ -19,8 +21,8 @@ body {
 .box {
   display: flex;
   align-items: center;
-  justify-content:space-between;
-  padding:3em;
+  justify-content:space-evenly;
+  padding:6em;
 }
 
 .box div {

@@ -16,6 +16,17 @@ body {
 	font-family: Futura, sans-serif;
 }
 
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box div {
+  width: 100px;
+  height: 100px;
+}
+
 .button {
 	color: ivory;
 	background-color: #555555;

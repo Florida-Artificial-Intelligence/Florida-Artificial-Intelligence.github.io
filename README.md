@@ -1,4 +1,5 @@
-# Florida Artificial Intelligence Communication Administration
+# Florida Artificial Intelligence Computing Advancements
+
 FAICA.US main website
 Visit [FAICA.US](https://www.faica.us)
 

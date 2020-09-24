@@ -15,5 +15,8 @@ h1 {
 .div1 {
   color:Gainsboro;
   background-color:DarkSlateGrey;
-  
+  border-radius:45px;
+  margin:5%;
+  padding:1em;
 }
+

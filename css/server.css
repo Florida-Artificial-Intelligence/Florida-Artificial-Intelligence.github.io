@@ -5,8 +5,15 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
 h1 {
   color:white;
   text-shadow: 5px 5px 5px black;
   text-align: center;
+}
+
+.div1 {
+  color:Gainsboro;
+  background-color:DarkSlateGrey;
+  
 }

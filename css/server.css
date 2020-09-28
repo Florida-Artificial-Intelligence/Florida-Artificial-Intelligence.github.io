@@ -12,6 +12,15 @@ h1 {
   text-align: center;
 }
 
+.logo {
+	opacity:0.5;
+	width:10%;
+}
+
+.logo:hover {
+	opacity:1;
+}
+
 .div1 {
   color:Gainsboro;
   background-color:DarkSlateGrey;

@@ -5,7 +5,7 @@ Visit [FAICA.US](https://www.faica.us)
 
 <BR>
 
-![IMG](https://github.com/Florida-Artificial-Intelligence/Florida-Artificial-Intelligence.github.io/src/LOGO.svg)
+![IMG](/src/LOGO.svg)
 
 <br>
 

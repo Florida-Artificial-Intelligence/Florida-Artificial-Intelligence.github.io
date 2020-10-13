@@ -5,7 +5,7 @@ Visit [FAICA.US](https://www.faica.us)
 
 <BR>
 
-![IMG](/src/LOGO.svg)
+[![IMG](/src/LOGO.svg)](faica.us)
 
 <br>
 
